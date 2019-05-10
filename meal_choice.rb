@@ -1,5 +1,5 @@
-def meal_choice(meal_choice = meat)
-  puts "My favorite meal choice is #{meal_choice}."
+def meal_choice(choice = meat)
+  puts "My favorite meal choice is #{choice}."
 end
 meal_choice()
 
